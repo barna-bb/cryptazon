@@ -1,7 +1,7 @@
 # Cryptazon - A Web3 E-Commerce Platform
 
 ## Description
-A Web3 E-Commerce site to sell and purchase goods using the newest blockchain technologies.
+A Web3 E-Commerce website to sell and purchase goods using the newest blockchain technologies.
 
 ## Technology Stack & Tools
 
