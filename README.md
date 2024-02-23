@@ -1,8 +1,9 @@
 # Cryptazon - A Web3 E-Commerce Platform
 
-<p float="left" align="middle">
-  <img src="https://github.com/barna-bb/cryptazon/assets/64091884/724fae52-faac-40fc-a7f2-4818eba270e3" width=45% height=45%>
-  <img src="https://github.com/barna-bb/cryptazon/assets/64091884/e0ad85cf-aec5-42df-a2f9-cb0064e27a3f" width=45% height=45%>
+## Screenshots
+<p align="middle">
+  <img src="https://github.com/barna-bb/cryptazon/assets/64091884/724fae52-faac-40fc-a7f2-4818eba270e3">
+  <img src="https://github.com/barna-bb/cryptazon/assets/64091884/e0ad85cf-aec5-42df-a2f9-cb0064e27a3f">
 </p>
 
 ## Description
