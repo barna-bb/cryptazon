@@ -1,5 +1,8 @@
 # Cryptazon - A Web3 E-Commerce Platform
 
+## Description
+A Web3 E-Commerce site to sell and purchase goods using the newest blockchain technologies.
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
@@ -32,4 +35,4 @@ In a separate terminal execute:
 `$ npm run start`
 
 ## Acknowledgement
-This project is based on a [tutorial](https://www.youtube.com/watch?v=X1ahXNYkpL8) by [Dapp University](https://www.youtube.com/@DappUniversity).
+This project is based on a tutorial by [DApp University](https://www.youtube.com/@DappUniversity).
