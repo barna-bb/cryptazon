@@ -41,4 +41,4 @@ In a separate terminal execute:
 `$ npm run start`
 
 ## Acknowledgement
-This project is based on a tutorial by [DApp University](https://www.youtube.com/@DappUniversity).
+This project was made possible with the help of [DApp University](https://www.youtube.com/@DappUniversity).
